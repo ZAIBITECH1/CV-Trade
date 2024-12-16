@@ -1,0 +1,2 @@
+# CV-Trade
+CVT bot
